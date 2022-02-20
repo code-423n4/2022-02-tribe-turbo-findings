@@ -1,0 +1,9 @@
+{
+  "contest": 92,
+  "handle": "cmichel",
+  "address": "0x6823636c2462cfdcD8d33fE53fBCD0EdbE2752ad",
+  "risk": "3",
+  "title": "`totalFeiBoosted` vars can desync in `TurboSafe` and `TurboMaster`",
+  "issueId": 30,
+  "issueUrl": "https://github.com/code-423n4/2022-02-tribe-turbo-findings/issues/30"
+}
