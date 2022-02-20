@@ -1,0 +1,9 @@
+{
+  "contest": 92,
+  "handle": "cccz",
+  "address": "0x74d754378a59Ab45d3E6CaC83f0b87E8E8719270",
+  "risk": "3",
+  "title": "TurboRouter: deposit(), mint(), createSafeAndDeposit() and createSafeAndDepositAndBoost() functions may be vulnerable to FRONT-RUN attack",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2022-02-tribe-turbo-findings/issues/24"
+}
