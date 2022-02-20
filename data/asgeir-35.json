@@ -1,0 +1,9 @@
+{
+  "contest": 92,
+  "handle": "asgeir",
+  "address": "0xEB0C4F040FF0e2278bB2c14B7CC9c357467C83e3",
+  "risk": "3",
+  "title": "The safe owner can steal the safe's collateral",
+  "issueId": 35,
+  "issueUrl": "https://github.com/code-423n4/2022-02-tribe-turbo-findings/issues/35"
+}
