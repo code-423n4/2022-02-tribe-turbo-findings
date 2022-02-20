@@ -1,0 +1,9 @@
+{
+  "contest": 92,
+  "handle": "Ruhum",
+  "address": "0x1708bdfa333F81993A1eDcFEc6821a3Ec563eA06",
+  "risk": "2",
+  "title": "`TurboRouter` can't interact with existing `TurboSafe` because of the authentication modifier",
+  "issueId": 33,
+  "issueUrl": "https://github.com/code-423n4/2022-02-tribe-turbo-findings/issues/33"
+}
