@@ -1,0 +1,9 @@
+{
+  "contest": 92,
+  "handle": "CertoraInc",
+  "address": "0x009dA689fE16166448B0D6C0f5D2F82033A16B8A",
+  "risk": "3",
+  "title": "Lack of approve after creating a safe in TurboRouter",
+  "issueId": 40,
+  "issueUrl": "https://github.com/code-423n4/2022-02-tribe-turbo-findings/issues/40"
+}
