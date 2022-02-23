@@ -1,0 +1,9 @@
+{
+  "contest": 92,
+  "handle": "catchup",
+  "address": "0xB159bEEb1DeA94440820F9A06A2f613974467e0E",
+  "risk": "2",
+  "title": "ERC20 decimals can be different than 18",
+  "issueId": 49,
+  "issueUrl": "https://github.com/code-423n4/2022-02-tribe-turbo-findings/issues/49"
+}
