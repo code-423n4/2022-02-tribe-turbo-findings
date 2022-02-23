@@ -1,0 +1,9 @@
+{
+  "contest": 92,
+  "handle": "catchup",
+  "address": "0xB159bEEb1DeA94440820F9A06A2f613974467e0E",
+  "risk": "2",
+  "title": "Timelock for critical changes",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2022-02-tribe-turbo-findings/issues/48"
+}
