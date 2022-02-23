@@ -1,0 +1,9 @@
+{
+  "contest": 92,
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "2",
+  "title": "[WP-M2] Wrong implementation of `TurboSafe.sol#less()` may cause boosted record value in TurboMaster bigger than actual lead to `BoostCapForVault` and `BoostCapForCollateral` to be permanently occupied",
+  "issueId": 55,
+  "issueUrl": "https://github.com/code-423n4/2022-02-tribe-turbo-findings/issues/55"
+}
