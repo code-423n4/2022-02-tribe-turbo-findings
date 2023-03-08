@@ -1,3 +1,11 @@
+---
+sponsor: "Tribe"
+slug: "2022-02-tribe-turbo"
+date: "2022-04-19"
+title: "Tribe Turbo contest"
+findings: "https://github.com/code-423n4/2022-02-tribe-turbo-findings/issues"
+contest: 92
+---
 
 # Overview
 
